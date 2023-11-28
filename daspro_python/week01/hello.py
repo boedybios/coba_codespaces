@@ -1,6 +1,6 @@
 def main():
-    for _ in range(5):
-        print("Hello Python")
+    for i in range(5):
+        print(f"Hello Python {i}")
 
 if __name__ == "__main__":
     main()
